@@ -7,3 +7,5 @@
 ---
 ### This is submission number *three*
 ### The output file is the [output_nn.csv](output_nn.csv)
+---
+Email used for the Summer Analytics course : dhanushrama1611@gmail.com
