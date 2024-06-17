@@ -1,4 +1,7 @@
 # Submissions for DataHack by IIT Guwahati 
+## MY FINAL SUBMISSION CSV FILE IS [output_nn.csv](output_nn.csv)
+---
+## BUT IF THERE CAN BE MULTIPLE SUBMISSION FILES AND ONLY THE BEST WILL BE COUNTED, THEN HERE ARE MY THREE SUBMISSION FILES BELOW : 
 ### This is submission number *one*
 ### The output file is the [rf_output.csv](rf_output.csv)
 ---
